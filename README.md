@@ -1,2 +1,2 @@
 # Guia-de-HTML
-O guia estelar de HTML da Rocketseat
+Projeto criado seguindo: O guia estelar de HTML da Rocketseat
